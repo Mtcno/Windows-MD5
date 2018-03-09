@@ -1,2 +1,7 @@
 # Windows-MD5
-MD5 And Hash-1 Function
+MD5 And Sha-1 Function
+
+
+##说明
+
+一个md5 sha1的接口。
